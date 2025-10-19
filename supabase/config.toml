@@ -1,1 +1,7 @@
 project_id = "egaiubvqqehkqrbsotud"
+
+[functions.weather]
+verify_jwt = false
+
+[functions.analyze-crop-health]
+verify_jwt = false
