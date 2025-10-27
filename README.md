@@ -4,7 +4,7 @@
 
 ## Project Info
 
-**Live URL**: [https://terra-care-ai.lovable.app](https://terra-care-ai.lovable.app)
+**Live URL**: terra-care-ai.vercel.app
 
 TerraCare AI is a modern Crop Monitoring & Analysis System built with React, TypeScript, and TailwindCSS. It allows users to:
 
